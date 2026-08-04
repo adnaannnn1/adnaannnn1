@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst skilled in Python, SQL, Power BI and Excel.<br>Experience building end-to-end analytics projects — data cleaning, EDA, dashboards, and basic ML models — turning raw data into clear, actionable business insights.<br>Actively seeking entry-level Data Analyst / Business Analyst roles.
+Skilled in SQL, Power BI, Advanced Excel, Python, Tableau, Data Analysis, Data Visualization, Business Intelligence, Data Cleaning, Exploratory Data Analysis, Dashboard Development, Data Validation, Business Analysis and Problem Solving.<br>Actively seeking entry-level Data Analyst / Business Analyst roles.
 
 
 ## 🌐 Socials:
